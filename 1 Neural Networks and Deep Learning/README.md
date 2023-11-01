@@ -22,10 +22,17 @@ Understand the key computations underlying deep learning, use them to build and 
 
 ## Programming Assignments
 - W1A1 - No Programming Assignment in Week 1
-- [W2A1 - Logistic Regression with a Neural Network mindset](https://nbviewer.org/github/RalfNiem/coursera-deep-learning-specialization/blob/main/1%20Neural%20Networks%20and%20Deep%20Learning/ex2%20-%20Logistic%20Regression/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb)
-- [W3A1 - Planar data classification with one hidden layer](https://nbviewer.org/github/RalfNiem/coursera-deep-learning-specialization/blob/main/1%20Neural%20Networks%20and%20Deep%20Learning/ex3%20-%20NN%20with%20one%20hidden%20layer/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
-- [W4A1 - Building your Deep Neural Network: Step by Step](https://nbviewer.org/github/RalfNiem/coursera-deep-learning-specialization/blob/main/1%20Neural%20Networks%20and%20Deep%20Learning/ex4%20-%20Build%20your%20Deep%20Neural%20Network/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
-- [W4A2 - Deep Neural Network for Image Classification: Application](https://nbviewer.org/github/RalfNiem/coursera-deep-learning-specialization/blob/main/1%20Neural%20Networks%20and%20Deep%20Learning/ex5%20-%20Deep%20Neural%20Network%20Application/Deep_Neural_Network_Application_v8.ipynb)
+- [W2A1 - Logistic Regression with a Neural Network mindset](https://github.com/RalfNiem/coursera-deep-learning-specialization/tree/main/1%20Neural%20Networks%20and%20Deep%20Learning)
+[![nbviewer](https://img.shields.io/badge/nbviewer-Click%20Here-brightgreen?)](https://nbviewer.org/github/RalfNiem/coursera-deep-learning-specialization/blob/main/1%20Neural%20Networks%20and%20Deep%20Learning/ex2%20-%20Logistic%20Regression/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb)
+  
+- [W3A1 - Planar data classification with one hidden layer](https://github.com/RalfNiem/coursera-deep-learning-specialization/tree/main/1%20Neural%20Networks%20and%20Deep%20Learning/ex3%20-%20NN%20with%20one%20hidden%20layer)
+[![nbviewer](https://img.shields.io/badge/nbviewer-Click%20Here-brightgreen?)](https://nbviewer.org/github/RalfNiem/coursera-deep-learning-specialization/blob/main/1%20Neural%20Networks%20and%20Deep%20Learning/ex3%20-%20NN%20with%20one%20hidden%20layer/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
+
+- [W4A1 - Building your Deep Neural Network: Step by Step](https://github.com/RalfNiem/coursera-deep-learning-specialization/tree/main/1%20Neural%20Networks%20and%20Deep%20Learning/ex4%20-%20Build%20your%20Deep%20Neural%20Network)
+[![nbviewer](https://img.shields.io/badge/nbviewer-Click%20Here-brightgreen?)](https://nbviewer.org/github/RalfNiem/coursera-deep-learning-specialization/blob/main/1%20Neural%20Networks%20and%20Deep%20Learning/ex4%20-%20Build%20your%20Deep%20Neural%20Network/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
+
+- [W4A2 - Deep Neural Network for Image Classification: Application](https://github.com/RalfNiem/coursera-deep-learning-specialization/tree/main/1%20Neural%20Networks%20and%20Deep%20Learning/ex5%20-%20Deep%20Neural%20Network%20Application)
+[![nbviewer](https://img.shields.io/badge/nbviewer-Click%20Here-brightgreen?)](https://nbviewer.org/github/RalfNiem/coursera-deep-learning-specialization/blob/main/1%20Neural%20Networks%20and%20Deep%20Learning/ex5%20-%20Deep%20Neural%20Network%20Application/Deep_Neural_Network_Application_v8.ipynb)
  
 
 
